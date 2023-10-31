@@ -1,0 +1,25 @@
+{
+  "name": "crud2",
+  "version": "1.0.0",
+  "description": "atividade crud terceiro semestre",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanvilabela/Crud2.git"
+  },
+  "keywords": [
+    "1914"
+  ],
+  "author": "Renan Vila Bela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanvilabela/Crud2/issues"
+  },
+  "homepage": "https://github.com/renanvilabela/Crud2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
